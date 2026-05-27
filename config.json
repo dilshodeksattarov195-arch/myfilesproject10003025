@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervtringify",
+        "uuid": 2117500,
+        "checksum": "o5c99u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
